@@ -8,7 +8,10 @@ namespace Json
     {
         public static bool IsValidJson(string s)
         {
-            s = s.Trim();
+            if (s != null)
+            {
+                s = s.Trim();
+            }
             
             try
             {
