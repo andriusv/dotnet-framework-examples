@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetFrameworkExamples", "DotnetFrameworkExamples\DotnetFrameworkExamples.csproj", "{4C8CE978-3234-493B-86F8-AD259BF1D976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json", "Json\Json.csproj", "{9DE491F3-77DF-47F4-8C39-76AA50F5B7D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTests", "JsonTests\JsonTests.csproj", "{647F8358-4DB7-408D-B2C0-C874EC8D648C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C8CE978-3234-493B-86F8-AD259BF1D976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8CE978-3234-493B-86F8-AD259BF1D976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8CE978-3234-493B-86F8-AD259BF1D976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8CE978-3234-493B-86F8-AD259BF1D976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE491F3-77DF-47F4-8C39-76AA50F5B7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE491F3-77DF-47F4-8C39-76AA50F5B7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE491F3-77DF-47F4-8C39-76AA50F5B7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE491F3-77DF-47F4-8C39-76AA50F5B7D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{647F8358-4DB7-408D-B2C0-C874EC8D648C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647F8358-4DB7-408D-B2C0-C874EC8D648C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647F8358-4DB7-408D-B2C0-C874EC8D648C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647F8358-4DB7-408D-B2C0-C874EC8D648C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
